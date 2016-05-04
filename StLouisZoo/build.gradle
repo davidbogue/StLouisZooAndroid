@@ -1,0 +1,54 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.6.+'
+    }
+}
+apply plugin: 'android'
+
+repositories {
+    mavenCentral()
+}
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "17.0.0"
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 19
+    }
+    signingConfigs {
+        debug {
+            storeFile file("/Users/davidbogue/AndroidStudioProjects/release-keystore.jks")
+            storePassword "65rambler"
+            keyAlias "android_release_keystore"
+            keyPassword "65rambler"
+        }
+        release {
+            storeFile file("/Users/davidbogue/AndroidStudioProjects/release-keystore.jks")
+            storePassword "65rambler"
+            keyAlias "android_release_keystore"
+            keyPassword "65rambler"
+        }
+    }
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+            runProguard true
+            proguardFile getDefaultProguardFile('proguard-android-optimize.txt')
+        }
+    }
+    productFlavors {
+        defaultFlavor {
+            proguardFile 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:+'
+    compile 'com.google.android.gms:play-services:4.0.30'
+}

@@ -1,0 +1,89 @@
+#Addax
+Allen's Swamp Monkey
+Amur Leopard
+Amur Tiger
+Andean Bear
+Babirusa
+Bactrian Camel
+Banteng
+Bat-eared Fox
+Black and White Colobus Monkey
+Black and White Ruffed Lemur
+Black Lemur
+Black Rhinoceros
+Black-handed Spider Monkey
+Black-tailed Prairie Dog
+Blue-Eyed Black Lemur
+Bush Dog
+California Sea Lion
+Capybara
+Central Chinese Goral
+Chacoan Peccary
+Cheetah
+Chimpanzee
+Chinchilla
+Coquerel's Sifaka
+Cotswold Sheep
+Cotton-top Tamarin
+Degu
+Domestic Goat
+Dwarf Mongoose
+Dwarf Zebu
+Elephants
+European Polecat
+Fennec Fox
+Francois Langur
+Gerenuk
+Giant Anteater
+Goeldi's Monkey
+Golden Lion Tamarin
+Grevy's Zebra
+Grizzly Bear
+Guinea Pig
+Harbor Seal
+Hedgehogs
+Hippopotamus
+Indian Muntjac
+Jaguar
+Kangaroo Rat
+Kinkajou
+Lesser Kudu
+Linne's Two-toed Sloth
+Lion
+Lion-tailed Macaque
+Malayan Sun Bear
+Matschie's Tree Kangaroo
+Mexican Hairy Porcupine
+Mongoose Lemur
+Mountain Bongo
+Naked Mole Rat
+North American River Otter
+Okapi
+Opossum
+Prevost's Squirrel
+Puma
+Rabbits
+Red Kangaroo
+Red Panda
+Red River Hog
+Red-flanked Duiker
+Reticulated Giraffe
+Ring-tailed Lemur
+Sichuan Takin
+Slender-tailed Meerkat
+Snow Leopard
+Soemmerring's Gazelle
+Somali Wild Ass
+Southern Three-banded Armadillo
+Spectacled Langur
+Speke's Gazelle
+Spotted Hyena
+Springhaas
+St. Vincent's Agouti
+Sumatran Orangutan
+Tammar Wallaby
+Transcaspian Urial
+Visayan Warty Pig
+Western Lowland Gorilla
+White-faced Saki
+Woodchuck

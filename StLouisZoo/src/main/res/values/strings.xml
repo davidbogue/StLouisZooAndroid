@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">St Louis Zoo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map">"St. Louis Zoo Map "</string>
+    <string name="map">Map</string>
+    <string name="view_map">View Map</string>
+    <string name="title_activity_animal_list">St. Louis Zoo Animals</string>
+    <string name="title_activity_animal_types">St. Louis Zoo Animals</string>
+    <string name="amphibians">Amphibians</string>
+    <string name="birds">Birds</string>
+    <string name="fish">Fish</string>
+    <string name="reptiles">Reptiles</string>
+    <string name="mammals">Mammals</string>
+    <string name="title_activity_animal_details">St. Louis Zoo Animals</string>
+    <string name="placeholder">placeholder</string>
+    <string name="title_activity_zoo_hours">St. Louis Zoo Hours</string>
+    <string name="title_activity_zoo_attractions">St. Louis Zoo Attractions</string>
+    <string name="title_activity_zoo_info">St. Louis Zoo Info</string>
+    <string name="hours">Hours</string>
+    <string name="holiday_hours">Holiday Hours</string>
+    <string name="attractions">Attractions</string>
+    <string name="rivers_edge">River\'s Edge</string>
+    <string name="the_wild">The Wild</string>
+    <string name="discovery_corner">Discovery Corner</string>
+    <string name="historic_hill">Historic Hill</string>
+    <string name="red_rocks">Red Rocks</string>
+    <string name="lakeside_crossing">Lakeside Crossing</string>
+
+</resources>
